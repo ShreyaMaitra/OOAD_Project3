@@ -21,7 +21,7 @@
 
 <h2>Below is the updated UML daigram:</h2>
 
-![image](![pp3 (1)](https://user-images.githubusercontent.com/111729856/222281764-a465819b-16a1-4c95-8a96-00a41fdb8c87.png))
+![image](!(https://user-images.githubusercontent.com/111729856/222281764-a465819b-16a1-4c95-8a96-00a41fdb8c87.png)
 
 # UML Changes
 We are only considering Staff and Vehicle as the abstract class . In project 2 we had not considered Vehicle also as an abstract class.
