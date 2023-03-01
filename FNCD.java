@@ -1149,9 +1149,9 @@ public static void racing( ArrayList<Vehicle> v,ArrayList<Vehicle> invList, Arra
           updateVehicleInv(invList,v1);
            // 30 % chance of driver to get injured
            
-           double j = 0.25;
+          
            //Math.random()
-           if (j < 0.3) {
+           if (Math.random() < 0.3) {
           person.setStaffHealthStatus("Injured"); 
           logger.setDescription(person.getStaffType()+" "+person.getStaffname()+" has got injured");
            }    
