@@ -4,21 +4,6 @@
 
 <h2>Java Version :17.0.6</h2>
 
-<h1>Changes made compare to previous UML are following:</h1>
-
-<h3>Vehicle class:</h3> datatype added: carCleanliness(),carType(),carStatus() and 
-            methods added: VehicleWashBonus(),VehicleRepairBonus(),VehicleSaleBonus()
-      
-<h3>Buyer class:</h3> methods added: getBuyingAbility(),getBuyingIntention(),getDesiredVehicle()
-
-<h3>PerformanceCars class, RegularCars class, PickupCars class:</h3> methods added: VehicleWashBonus(), VehicleRepairBonus(), VehicleSaleBonus()
-
-<h3>Staff class:</h3> method added: StaffType()
-
-<h3>Salesperson class, Mechanic class, Intern class:</h3> methods added: StaffType(),determineStaffSalary()
-
-<h3>FNCD class:</h3> methods added: hireIntern(), checkOperatingBudget()
-
 <h2>Below is the updated UML daigram:</h2>
 
 ![pp3 (1)](https://user-images.githubusercontent.com/111729856/222281948-7293f8bf-a3c4-4102-9e4e-7420d538abbf.png)
