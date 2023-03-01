@@ -1,0 +1,141 @@
+
+ Tracker : Day 1
+Current budget $10000.0
+
+ Tracker : Day 2
+Opening budget $10000.0
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD Staff : $2810.0
+
+ Tracker : Day 3
+Opening budget $7190.0
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD Staff : $478.0
+
+ Tracker : Day 4
+Opening budget $6712.0
+Total money  earned by FNCD : $49499.200000000004
+Total money  earned by FNCD Staff : $3290.0
+
+ Tracker : Day 5
+Opening budget $52921.200000000004
+Total money  earned by FNCD : $65134.08
+Total money  earned by FNCD Staff : $1158.0
+
+ Tracker : Day 6
+Opening budget $88239.28
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD Staff : $734.0
+
+ Tracker : Day 7
+Opening budget $72433.28
+Total money  earned by FNCD : $212987.775
+Total money  earned by FNCD Staff : $1234.0
+
+ Tracker : Day 8
+Current budget $284187.055
+
+ Tracker : Day 9
+Opening budget $284187.055
+Total money  earned by FNCD : $192605.7
+Total money  earned by FNCD Staff : $3121.0
+
+ Tracker : Day 10
+Opening budget $444579.755
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD Staff : $1396.0
+
+ Tracker : Day 11
+Opening budget $414849.755
+Total money  earned by FNCD : $138004.125
+Total money  earned by FNCD Staff : $3461.0
+
+ Tracker : Day 12
+Opening budget $549392.88
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD Staff : $569.0
+
+ Tracker : Day 13
+Opening budget $513682.88
+Total money  earned by FNCD : $165778.2
+Total money  earned by FNCD Staff : $870.0
+
+ Tracker : Day 14
+Opening budget $678591.0800000001
+Total money  earned by FNCD : $51108.0
+Total money  earned by FNCD Staff : $1052.0
+
+ Tracker : Day 15
+Current budget $691030.0800000001
+
+ Tracker : Day 16
+Opening budget $691030.0800000001
+Total money  earned by FNCD : $49128.0
+Total money  earned by FNCD Staff : $2405.0
+
+ Tracker : Day 17
+Opening budget $721912.0800000001
+Total money  earned by FNCD : $91630.875
+Total money  earned by FNCD Staff : $723.0
+
+ Tracker : Day 18
+Opening budget $793894.9550000001
+Total money  earned by FNCD : $39966.0
+Total money  earned by FNCD Staff : $2699.0
+
+ Tracker : Day 19
+Opening budget $796557.9550000001
+Total money  earned by FNCD : $61472.0
+Total money  earned by FNCD Staff : $1340.0
+
+ Tracker : Day 20
+Opening budget $839598.9550000001
+Total money  earned by FNCD : $174443.52
+Total money  earned by FNCD Staff : $707.0
+
+ Tracker : Day 21
+Opening budget $975537.4750000001
+Total money  earned by FNCD : $118046.7
+Total money  earned by FNCD Staff : $1061.0
+
+ Tracker : Day 22
+Current budget $1055624.175
+
+ Tracker : Day 23
+Opening budget $1055624.175
+Total money  earned by FNCD : $94906.875
+Total money  earned by FNCD Staff : $2662.0
+
+ Tracker : Day 24
+Opening budget $1107995.05
+Total money  earned by FNCD : $61763.04
+Total money  earned by FNCD Staff : $1198.0
+
+ Tracker : Day 25
+Opening budget $1139053.09
+Total money  earned by FNCD : $43097.5
+Total money  earned by FNCD Staff : $2411.0
+
+ Tracker : Day 26
+Opening budget $1151352.59
+Total money  earned by FNCD : $72655.8
+Total money  earned by FNCD Staff : $1126.0
+
+ Tracker : Day 27
+Opening budget $1200462.3900000001
+Total money  earned by FNCD : $179613.6875
+Total money  earned by FNCD Staff : $1439.0
+
+ Tracker : Day 28
+Opening budget $1354172.0775000001
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD Staff : $447.0
+
+ Tracker : Day 29
+Current budget $1326921.0775000001
+
+ Tracker : Day 30
+Opening budget $1326921.0775000001
+Total money  earned by FNCD : $193719.6
+Total money  earned by FNCD Staff : $3198.0
+

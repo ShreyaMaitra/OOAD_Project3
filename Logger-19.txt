@@ -1,0 +1,24 @@
+Simulation day 19:
+*** FNCD Day 19 Thursday *** 
+
+ Opening....
+Hired Driver Emma HH Taylor
+Purchased Broken , Dirty RegularCar for $17091.0 Cost
+
+
+Intern Emma TT Wilson washed Motorcycles i20_LUX_171666578 using Wash method Detailed and made it Sparkling (earned $25)
+Intern Mia HH Moore washed PerformanceCar Mercedes_Sports_468162075 using Wash method Detailed and made it Sparkling (earned $200)
+Intern Amelia KK Smith washed MonsterTrucks Batman_1224849184 using Wash method Detailed and made it Sparkling (earned $115)
+
+
+Mechanic Harper AA Davis repaired Broken i20_Sports_1262952224 and made it Used (earned $150.0)
+Mechanic Evelyn PP Wilson repaired Broken Mercedes_Hatchback_-944650904 and made it Used (earned $235.0)
+Mechanic Evelyn UU Johnson repaired Broken i20_Sports_1262952224 and made it Like New (earned $150.0)
+
+
+Salesperson Ava JJ Wilson sold Like New PickUpCar Subaru_LUX_-1764863136 to Buyer with Addon: None (Price Increased by $0.0) for $61472.0 (earned $ 2000.0 bonus)
+
+Ending....
+
+
+

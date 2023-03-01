@@ -1,0 +1,22 @@
+Simulation day 20:
+*** FNCD Day 20 Friday *** 
+
+ Opening....
+Purchased Broken , Clean PickUpCar for $37798.0 Cost
+
+
+Intern Emma TT Wilson washed PerformanceCar i10_Sedan_515295630 using Wash method Detailed and made it Sparkling (earned $200)
+
+
+Mechanic Harper AA Davis repaired Broken Mercedes_Hatchback_-944650904 and made it Like New (earned $235.0)
+
+
+Salesperson Isabella PP Brown sold Like New PerformanceCar Ferrari_Sumo_-383758612 to Buyer with Addon: Extended Warranty (Price Increased by $14182.400000000001) for $85094.4 (earned $ 3000.0 bonus)
+Salesperson Ava JJ Wilson sold Like New PerformanceCar Ferrari_Sumo_-383758612 to Buyer with Addon: Satellite Radio (Price Increased by $4254.72) for $89349.12 (earned $ 3000.0 bonus)
+
+Ending....
+Salesperson Ava JJ Wilson has quit the FNCD
+
+
+Emma TT Wilson has shifted to the position of a Salesperson
+

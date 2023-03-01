@@ -1,0 +1,23 @@
+Simulation day 12:
+*** FNCD Day 12 Thursday *** 
+
+ Opening....
+Hired Intern Isabella PP Brown
+Hired Intern Emma HH Taylor
+Hired Driver Emma HH Taylor
+Purchased Used , Clean PerformanceCar for $26102.0 Cost
+Purchased Like New , Dirty PickUpCar for $35141.0 Cost
+
+
+Intern Isabella LL Moore washed ElectricCars Audi_Sumo_1172216733 using Wash method Detailed and made it Sparkling (earned $125)
+Intern Charlotte BB Wilson washed MonsterTrucks Batman_1224849184 using Wash method Detailed and made it Sparkling (earned $115)
+
+
+Mechanic Harper AA Davis repaired Broken Tesla_Hatchback_-1164729497 and made it Like New (earned $250.0)
+
+
+
+Ending....
+
+
+

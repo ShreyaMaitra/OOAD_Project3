@@ -1,0 +1,24 @@
+Simulation day 9:
+*** FNCD Day 9 Monday *** 
+
+ Opening....
+Hired Intern Isabella PP Brown
+Hired Intern Emma HH Taylor
+Purchased Like New , Dirty PickUpCar for $29092.0 Cost
+
+
+Intern Evelyn UU Johnson washed ElectricCars Subaru_Sumo_-715281187 using Wash method Chemical and made it Sparkling (earned $125)
+Intern Harper VV Jones washed ElectricCars Audi_Sumo_1172216733 using Wash method Chemical and made it Sparkling (earned $125)
+Intern Charlotte CC Brown washed MonsterTrucks Backwards Bob_-620023305 using Wash method Elbow Grease and made it Sparkling (earned $115)
+
+
+Mechanic Emma MM Moore repaired Broken Backwards Bob_-620023305 and made it Like New (earned $305.0)
+
+
+Salesperson Isabella PP Brown sold Like New PerformanceCar Bugatti_Sumo_-1872009069 to Buyer with Addon: Satellite Radio (Price Increased by $4474.0) for $93954.0 (earned $ 3000.0 bonus)
+Salesperson Amelia CC Brown sold Like New PerformanceCar Bugatti_Sumo_-1872009069 to Buyer with Addon: Undercoating (Price Increased by $4697.7) for $98651.7 (earned $ 3000.0 bonus)
+
+Ending....
+
+
+

@@ -1,0 +1,25 @@
+Simulation day 21:
+*** FNCD Day 21 Saturday *** 
+
+ Opening....
+Hired Intern Emma HH Taylor
+Purchased Used , Dirty PerformanceCar for $36899.0 Cost
+
+
+Intern Mia HH Moore washed MonsterTrucks Batman_1224849184 using Wash method Detailed and made it Sparkling (earned $115)
+Intern Amelia KK Smith washed PerformanceCar Ford_XS_-1425297818 using Wash method Detailed and made it Sparkling (earned $200)
+
+
+Mechanic Evelyn PP Wilson repaired Broken i10_Forester_412879633 and made it Used (earned $350.0)
+Mechanic Evelyn UU Johnson repaired Broken i10_Forester_412879633 and made it Like New (earned $350.0)
+
+
+Salesperson Isabella PP Brown sold Like New PickUpCar i10_Forester_412879633 to Buyer with Addon: Extended Warranty (Price Increased by $8559.5) for $51357.0 (earned $ 2000.0 bonus)
+Salesperson Charlotte BB Wilson sold Like New PerformanceCar i10_Sedan_515295630 to Buyer with Addon: Satellite Radio (Price Increased by $3175.7000000000003) for $66689.7 (earned $ 3000.0 bonus)
+
+Ending....
+Salesperson Charlotte BB Wilson has quit the FNCD
+
+
+Mia HH Moore has shifted to the position of a Salesperson
+

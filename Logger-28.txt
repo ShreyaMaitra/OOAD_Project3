@@ -1,0 +1,21 @@
+Simulation day 28:
+*** FNCD Day 28 Saturday *** 
+
+ Opening....
+Hired Intern Emma HH Taylor
+Hired Intern Harper AA Davis
+Purchased Like New , Clean PerformanceCar for $26804.0 Cost
+
+
+Intern Evelyn II Taylor washed ElectricCars Audi_Sumo_1172216733 using Wash method Detailed and made it Sparkling (earned $125)
+Intern Harper CC Wilson washed ElectricCars i10_Sedan_-749029031 using Wash method Chemical and made it Sparkling (earned $125)
+Intern Emma PP Smith washed Motorcycles i20_LUX_171666578 using Wash method Detailed and made it Sparkling (earned $25)
+
+
+
+
+
+Ending....
+
+
+

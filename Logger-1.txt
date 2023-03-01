@@ -1,0 +1,7 @@
+Simulation day 1:
+*** FNCD only runs for Racing Today *** Day 1 Sunday *** 
+Racing............
+Driver Charlotte QQ Jones driving Motorcycles i20_LUX_171666578 secured position 11
+Driver Emma HH Taylor driving PickUpCar Porsche_Forester_-476403136 secured position 2
+Driver Olivia QQ Moore driving Motorcycles Mercedes_Hatchback_-944650904 secured position 9
+

@@ -1,0 +1,26 @@
+Simulation day 7:
+*** FNCD Day 7 Saturday *** 
+
+ Opening....
+
+
+Intern Evelyn II Johnson washed PerformanceCar Ferrari_Sumo_-383758612 using Wash method Detailed and made it Sparkling (earned $200)
+Intern Evelyn PP Wilson washed MonsterTrucks Bear Foot (F-150)_-1837156870 using Wash method Elbow Grease and made it Sparkling (earned $115)
+Intern Evelyn UU Johnson washed Motorcycles Mercedes_Hatchback_-944650904 using Wash method Chemical and made it Sparkling (earned $25)
+
+
+Mechanic Emma MM Moore repaired Broken Subaru_Sports_-26388711 and made it Like New (earned $350.0)
+Mechanic Emma SS Davis repaired Broken Bear Foot (F-150)_666346288 and made it Like New (earned $305.0)
+Mechanic Harper AA Davis repaired Broken Porsche_AC_337731417 and made it Like New (earned $150.0)
+
+
+Salesperson Amelia CC Brown sold Like New PickUpCar Subaru_Sports_-26388711 to Buyer with Addon: Satellite Radio (Price Increased by $4610.125) for $96812.625 (earned $ 2000.0 bonus)
+Salesperson Isabella PP Brown sold Like New PickUpCar Subaru_Sports_-26388711 to Buyer with Addon: Extended Warranty (Price Increased by $19362.525) for $116175.15 (earned $ 2000.0 bonus)
+
+Ending....
+Mechanic Emma SS Davis has quit the FNCD
+Intern Evelyn II Johnson has quit the FNCD
+
+
+Evelyn PP Wilson has shifted to the position of a Mechanic
+

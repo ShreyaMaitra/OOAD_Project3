@@ -1,0 +1,24 @@
+Simulation day 17:
+*** FNCD Day 17 Tuesday *** 
+
+ Opening....
+Hired Intern Isabella PP Brown
+Hired Intern Emma HH Taylor
+Purchased Like New , Clean RegularCar for $18925.0 Cost
+
+
+Intern Ava JJ Wilson washed ElectricCars Bentley_Sedan_884903454 using Wash method Detailed and made it Sparkling (earned $125)
+Intern Emma TT Wilson washed ElectricCars Subaru_Sumo_-715281187 using Wash method Detailed and made it Sparkling (earned $125)
+Intern Mia HH Moore washed PerformanceCar Tesla_Hatchback_-1164729497 using Wash method Detailed and made it Sparkling (earned $200)
+
+
+
+
+Salesperson Charlotte BB Wilson sold Like New PerformanceCar Tesla_Hatchback_-1164729497 to Buyer with Addon: Satellite Radio (Price Increased by $4363.375) for $91630.875 (earned $ 3000.0 bonus)
+
+Ending....
+Salesperson Charlotte CC Brown has quit the FNCD
+
+
+Ava JJ Wilson has shifted to the position of a Salesperson
+

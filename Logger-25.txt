@@ -1,0 +1,23 @@
+Simulation day 25:
+*** FNCD Day 25 Wednesday *** 
+
+ Opening....
+Purchased Like New , Clean PerformanceCar for $28387.0 Cost
+
+
+Intern Emma RR Miller washed ElectricCars i10_Sedan_-749029031 using Wash method Elbow Grease and made it Sparkling (earned $125)
+Intern Charlotte HH Jones washed RegularCar Tesla_AC_1208169089 using Wash method Chemical and made it Sparkling (earned $100)
+
+
+
+
+Salesperson Mia JJ Jones sold Like New PickUpCar Ferrari_Outback_-37032215 to Buyer with Addon: None (Price Increased by $0.0) for $43097.5 (earned $ 2000.0 bonus)
+Racing............
+Driver Charlotte QQ Jones driving Motorcycles i20_LUX_171666578 secured position 14
+Driver Emma HH Taylor driving MonsterTrucks Bear Foot (F-150)_-1837156870 secured position 12
+Driver Mia CC Miller driving Motorcycles Mercedes_Hatchback_-944650904 secured position 5
+
+Ending....
+
+
+

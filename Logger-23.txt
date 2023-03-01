@@ -1,0 +1,25 @@
+Simulation day 23:
+*** FNCD Day 23 Monday *** 
+
+ Opening....
+Hired Intern Emma HH Taylor
+Purchased Used , Sparkling PerformanceCar for $38822.0 Cost
+Purchased Broken , Dirty PickUpCar for $39874.0 Cost
+
+
+Intern Mia JJ Jones washed RegularCar Tesla_AC_1208169089 using Wash method Detailed and made it Sparkling (earned $100)
+
+
+Mechanic Evelyn PP Wilson repaired Broken Ford_XS_-1425297818 and made it Like New (earned $250.0)
+Mechanic Evelyn UU Johnson repaired Broken Bugatti_Hatchback_-1212389044 and made it Like New (earned $250.0)
+
+
+Salesperson Mia HH Moore sold Like New PerformanceCar Ford_XS_-1425297818 to Buyer with Addon: Satellite Radio (Price Increased by $4519.375) for $94906.875 (earned $ 3000.0 bonus)
+
+Ending....
+Salesperson Isabella PP Brown has quit the FNCD
+Intern Amelia KK Smith has quit the FNCD
+
+
+Mia JJ Jones has shifted to the position of a Salesperson
+

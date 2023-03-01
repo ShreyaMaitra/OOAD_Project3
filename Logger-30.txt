@@ -1,0 +1,22 @@
+Simulation day 30:
+*** FNCD Day 30 Monday *** 
+
+ Opening....
+
+
+Intern Evelyn II Taylor washed ElectricCars Audi_Sumo_1172216733 using Wash method Detailed and made it Sparkling (earned $125)
+Intern Harper CC Wilson washed MonsterTrucks Batman_1224849184 using Wash method Chemical and made it Sparkling (earned $115)
+Intern Emma PP Smith washed RegularCar Porsche_Edge_1678646333 using Wash method Detailed and made it Sparkling (earned $100)
+
+
+
+
+Salesperson Emma RR Miller sold Like New RegularCar Porsche_Edge_1678646333 to Buyer with Addon: Extended Warranty (Price Increased by $7549.0) for $45294.0 (earned $ 1000.0 bonus)
+Salesperson Mia JJ Jones sold Like New RegularCar Porsche_Edge_1678646333 to Buyer with Addon: Extended Warranty (Price Increased by $9058.800000000001) for $54352.8 (earned $ 1000.0 bonus)
+Salesperson Charlotte HH Jones sold Like New PerformanceCar Bentley_XS_1522789670 to Buyer with Addon: Extended Warranty (Price Increased by $15678.800000000001) for $94072.8 (earned $ 3000.0 bonus)
+
+Ending....
+Intern Evelyn II Taylor has quit the FNCD
+
+
+

@@ -1,0 +1,24 @@
+Simulation day 5:
+*** FNCD Day 5 Thursday *** 
+
+ Opening....
+Hired Intern Isabella PP Brown
+Hired Intern Emma HH Taylor
+Purchased Used , Dirty PickUpCar for $28658.0 Cost
+
+
+Intern Evelyn II Johnson washed MonsterTrucks Batman_1224849184 using Wash method Detailed and made it Sparkling (earned $115)
+Intern Evelyn PP Wilson washed PickUpCar Jaguar_Edge_-1943513544 using Wash method Elbow Grease and made it Sparkling (earned $300)
+Intern Evelyn UU Johnson washed MonsterTrucks Bear Foot (F-150)_666346288 using Wash method Chemical and made it Sparkling (earned $115)
+
+
+Mechanic Harper AA Davis repaired Broken Bugatti_Sumo_-1872009069 and made it Used (earned $250.0)
+
+
+Salesperson Amelia CC Brown sold Used PickUpCar Tesla_XL_-1089187652 to Buyer with Addon: Extended Warranty (Price Increased by $5427.84) for $32567.04 (earned $ 2000.0 bonus)
+Salesperson Isabella VV Smith sold Used PickUpCar Tesla_XL_-1089187652 to Buyer with Addon: None (Price Increased by $0.0) for $32567.04 (earned $ 2000.0 bonus)
+
+Ending....
+
+
+

@@ -1,0 +1,24 @@
+Simulation day 24:
+*** FNCD Day 24 Tuesday *** 
+
+ Opening....
+Hired Intern Emma HH Taylor
+Hired Intern Harper AA Davis
+Purchased Like New , Clean PerformanceCar for $29507.0 Cost
+
+
+Intern Emma RR Miller washed MonsterTrucks Bear Foot (F-150)_-1837156870 using Wash method Elbow Grease and made it Sparkling (earned $115)
+Intern Amelia KK Jones washed Motorcycles i20_LUX_171666578 using Wash method Detailed and made it Sparkling (earned $25)
+Intern Charlotte HH Jones washed PickUpCar Ferrari_Outback_-37032215 using Wash method Chemical and made it Sparkling (earned $300)
+
+
+Mechanic Harper AA Davis repaired Broken Ferrari_Outback_-37032215 and made it Used (earned $350.0)
+Mechanic Evelyn PP Wilson repaired Broken Ferrari_Outback_-37032215 and made it Like New (earned $350.0)
+
+
+Salesperson Mia JJ Jones sold Like New PerformanceCar Bugatti_AC_45268847 to Buyer with Addon: Road Rescue Coverage (Price Increased by $1211.04) for $61763.04 (earned $ 3000.0 bonus)
+
+Ending....
+
+
+

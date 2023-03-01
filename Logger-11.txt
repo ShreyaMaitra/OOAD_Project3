@@ -1,0 +1,32 @@
+Simulation day 11:
+*** FNCD Day 11 Wednesday *** 
+
+ Opening....
+
+
+Intern Evelyn UU Johnson washed PerformanceCar Ferrari_Sumo_-383758612 using Wash method Chemical and made it Sparkling (earned $200)
+Intern Harper VV Jones washed Motorcycles Mercedes_Hatchback_-944650904 using Wash method Chemical and made it Sparkling (earned $25)
+Intern Charlotte CC Brown washed PickUpCar Jaguar_Edge_-1943513544 using Wash method Elbow Grease and made it Sparkling (earned $300)
+
+
+Mechanic Emma MM Moore repaired Broken Mercedes_Sports_468162075 and made it Like New (earned $250.0)
+Mechanic Evelyn PP Wilson repaired Broken Bentley_Sedan_884903454 and made it Like New (earned $325.0)
+
+
+Salesperson Isabella PP Brown sold Like New PickUpCar Porsche_Hatchback_283175224 to Buyer with Addon: Satellite Radio (Price Increased by $2110.0) for $44310.0 (earned $ 2000.0 bonus)
+Salesperson Amelia CC Brown sold Like New PerformanceCar Jaguar_Sports_-708211979 to Buyer with Addon: Satellite Radio (Price Increased by $4461.625) for $93694.125 (earned $ 3000.0 bonus)
+Racing............
+Driver Charlotte QQ Jones driving Motorcycles i20_LUX_171666578 secured position 7
+Driver Emma HH Taylor driving MonsterTrucks Bear Foot (F-150)_-1837156870 secured position 1
+Driver Olivia QQ Moore driving Motorcycles Mercedes_Hatchback_-944650904 secured position 15
+Driver Olivia QQ Moore has got injured
+
+Ending....
+Mechanic Emma MM Moore has quit the FNCD
+Salesperson Isabella VV Smith has quit the FNCD
+Driver Olivia QQ Moore has left the FNCD
+
+
+Evelyn UU Johnson has shifted to the position of a Mechanic
+Harper VV Jones has shifted to the position of a Salesperson
+

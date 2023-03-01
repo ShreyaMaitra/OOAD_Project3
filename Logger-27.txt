@@ -1,0 +1,28 @@
+Simulation day 27:
+*** FNCD Day 27 Friday *** 
+
+ Opening....
+Hired Intern Harper AA Davis
+Purchased Used , Clean PerformanceCar for $24465.0 Cost
+
+
+Intern Amelia KK Jones washed Motorcycles i20_LUX_171666578 using Wash method Detailed and made it Sparkling (earned $25)
+Intern Charlotte HH Jones washed PerformanceCar Maruti_Racer_-1701217365 using Wash method Chemical and made it Sparkling (earned $200)
+Intern Evelyn II Taylor washed Motorcycles Mercedes_Hatchback_-944650904 using Wash method Detailed and made it Sparkling (earned $25)
+
+
+Mechanic Harper AA Davis repaired Broken Maruti_Racer_-1701217365 and made it Like New (earned $250.0)
+
+
+Salesperson Emma RR Miller sold Like New PerformanceCar Maruti_Racer_-1701217365 to Buyer with Addon: None (Price Increased by $0.0) for $56975.0 (earned $ 3000.0 bonus)
+Salesperson Mia JJ Jones sold Like New PerformanceCar Maruti_Racer_-1701217365 to Buyer with Addon: Satellite Radio (Price Increased by $2848.75) for $59823.75 (earned $ 3000.0 bonus)
+Salesperson Emma TT Wilson sold Like New PerformanceCar Maruti_Racer_-1701217365 to Buyer with Addon: Satellite Radio (Price Increased by $2991.1875) for $62814.9375 (earned $ 3000.0 bonus)
+
+Ending....
+Mechanic Evelyn UU Johnson has quit the FNCD
+Salesperson Emma TT Wilson has quit the FNCD
+
+
+Amelia KK Jones has shifted to the position of a Mechanic
+Charlotte HH Jones has shifted to the position of a Salesperson
+

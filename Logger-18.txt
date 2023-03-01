@@ -1,0 +1,27 @@
+Simulation day 18:
+*** FNCD Day 18 Wednesday *** 
+
+ Opening....
+Hired Intern Emma HH Taylor
+Purchased Like New , Dirty PerformanceCar for $34604.0 Cost
+
+
+Intern Emma TT Wilson washed PerformanceCar Mercedes_Sports_468162075 using Wash method Detailed and made it Sparkling (earned $200)
+Intern Mia HH Moore washed PickUpCar Subaru_DX_1193988153 using Wash method Detailed and made it Sparkling (earned $300)
+Intern Amelia KK Smith washed MonsterTrucks Backwards Bob_-620023305 using Wash method Detailed and made it Sparkling (earned $115)
+
+
+
+
+Salesperson Charlotte BB Wilson sold Like New RegularCar Audi_Racer_-1836011435 to Buyer with Addon: None (Price Increased by $0.0) for $39966.0 (earned $ 1000.0 bonus)
+Racing............
+Driver Charlotte QQ Jones driving Motorcycles i20_LUX_171666578 secured position 14
+Driver Emma HH Taylor driving MonsterTrucks Bear Foot (F-150)_-1837156870 secured position 8
+Driver Ava AA Jones driving Motorcycles Mercedes_Hatchback_-944650904 secured position 16
+Driver Ava AA Jones has got injured
+
+Ending....
+Driver Ava AA Jones has left the FNCD
+
+
+

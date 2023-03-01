@@ -1,0 +1,22 @@
+Simulation day 13:
+*** FNCD Day 13 Friday *** 
+
+ Opening....
+
+
+Intern Charlotte CC Brown washed RegularCar Porsche_Edge_1678646333 using Wash method Elbow Grease and made it Sparkling (earned $100)
+Intern Charlotte BB Wilson washed PerformanceCar i10_Sedan_515295630 using Wash method Detailed and made it Sparkling (earned $200)
+
+
+Mechanic Evelyn UU Johnson repaired Broken Ferrari_DX_-75038998 and made it Like New (earned $350.0)
+
+
+Salesperson Isabella PP Brown sold Like New PickUpCar i10_Sedan_355569285 to Buyer with Addon: Undercoating (Price Increased by $3947.1000000000004) for $82889.1 (earned $ 2000.0 bonus)
+Salesperson Harper VV Jones sold Like New PickUpCar i10_Sedan_355569285 to Buyer with Addon: None (Price Increased by $0.0) for $82889.1 (earned $ 2000.0 bonus)
+
+Ending....
+Salesperson Harper VV Jones has quit the FNCD
+
+
+Charlotte CC Brown has shifted to the position of a Salesperson
+

@@ -1,0 +1,22 @@
+Simulation day 10:
+*** FNCD Day 10 Tuesday *** 
+
+ Opening....
+Purchased Used , Dirty PerformanceCar for $28334.0 Cost
+
+
+Intern Evelyn UU Johnson washed PerformanceCar Mercedes_Sports_468162075 using Wash method Chemical and made it Sparkling (earned $200)
+Intern Harper VV Jones washed PickUpCar Subaru_DX_1193988153 using Wash method Chemical and made it Sparkling (earned $300)
+Intern Charlotte CC Brown washed PickUpCar Ferrari_DX_-75038998 using Wash method Elbow Grease and made it Sparkling (earned $300)
+
+
+Mechanic Emma MM Moore repaired Broken Porsche_Edge_1678646333 and made it Like New (earned $150.0)
+Mechanic Harper AA Davis repaired Broken Audi_Sumo_1172216733 and made it Used (earned $325.0)
+Mechanic Evelyn PP Wilson repaired Broken Audi_Sumo_1172216733 and made it Like New (earned $325.0)
+
+
+
+Ending....
+
+
+

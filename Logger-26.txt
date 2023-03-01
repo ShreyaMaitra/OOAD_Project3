@@ -1,0 +1,22 @@
+Simulation day 26:
+*** FNCD Day 26 Thursday *** 
+
+ Opening....
+Purchased Like New , Clean PickUpCar for $22420.0 Cost
+
+
+Intern Emma RR Miller washed PickUpCar Maruti_AC_265475614 using Wash method Elbow Grease and made it Sparkling (earned $300)
+Intern Amelia KK Jones washed ElectricCars Audi_Sumo_1172216733 using Wash method Detailed and made it Sparkling (earned $125)
+Intern Charlotte HH Jones washed PickUpCar Maruti_AC_265475614 using Wash method Chemical and made it Sparkling (earned $300)
+
+
+
+
+Salesperson Mia HH Moore sold Like New PerformanceCar Jaguar_SUV_1662185968 to Buyer with Addon: Satellite Radio (Price Increased by $3459.8) for $72655.8 (earned $ 3000.0 bonus)
+
+Ending....
+Salesperson Mia HH Moore has quit the FNCD
+
+
+Emma RR Miller has shifted to the position of a Salesperson
+

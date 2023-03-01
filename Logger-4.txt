@@ -1,0 +1,30 @@
+Simulation day 4:
+*** FNCD Day 4 Wednesday *** 
+
+ Opening....
+Hired Intern Isabella PP Brown
+
+
+Intern Mia TT Miller washed Motorcycles Maruti_EXL_-1336222921 using Wash method Elbow Grease and made it Sparkling (earned $25)
+Intern Amelia CC Brown washed RegularCar Porsche_AC_337731417 using Wash method Elbow Grease and made it Sparkling (earned $100)
+Intern Evelyn II Johnson washed ElectricCars i10_Sedan_-749029031 using Wash method Detailed and made it Sparkling (earned $125)
+
+
+Mechanic Emma MM Moore repaired Broken i20_LUX_171666578 and made it Like New (earned $235.0)
+Mechanic Emma SS Davis repaired Broken Jaguar_Sports_-708211979 and made it Like New (earned $250.0)
+Mechanic Harper AA Davis repaired Broken Bentley_Sedan_884903454 and made it Used (earned $325.0)
+
+
+Salesperson Isabella PP Brown sold Used PickUpCar Porsche_Forester_-476403136 to Buyer with Addon: None (Price Increased by $0.0) for $49499.200000000004 (earned $ 2000.0 bonus)
+Racing............
+Driver Charlotte QQ Jones driving Motorcycles i20_LUX_171666578 secured position 10
+Driver Emma HH Taylor driving MonsterTrucks Bear Foot (F-150)_-1837156870 secured position 3
+Driver Olivia QQ Moore driving Motorcycles Mercedes_Hatchback_-944650904 secured position 17
+
+Ending....
+Salesperson Harper BB Wilson has quit the FNCD
+Intern Mia TT Miller has quit the FNCD
+
+
+Amelia CC Brown has shifted to the position of a Salesperson
+

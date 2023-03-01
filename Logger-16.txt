@@ -1,0 +1,24 @@
+Simulation day 16:
+*** FNCD Day 16 Monday *** 
+
+ Opening....
+Hired Intern Emma HH Taylor
+Purchased Like New , Clean RegularCar for $15841.0 Cost
+
+
+Intern Charlotte BB Wilson washed Motorcycles Mercedes_Hatchback_-944650904 using Wash method Detailed and made it Sparkling (earned $25)
+Intern Isabella GG Johnson washed ElectricCars Audi_Sumo_1172216733 using Wash method Chemical and made it Sparkling (earned $125)
+Intern Ava JJ Wilson washed RegularCar Audi_Racer_-1836011435 using Wash method Detailed and made it Sparkling (earned $100)
+
+
+
+
+Salesperson Charlotte CC Brown sold Like New RegularCar Porsche_AC_337731417 to Buyer with Addon: Extended Warranty (Price Increased by $8188.0) for $49128.0 (earned $ 1000.0 bonus)
+
+Ending....
+Salesperson Isabella LL Moore has quit the FNCD
+Intern Isabella GG Johnson has quit the FNCD
+
+
+Charlotte BB Wilson has shifted to the position of a Salesperson
+
