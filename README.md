@@ -24,8 +24,8 @@
 ![pp3 (1)](https://user-images.githubusercontent.com/111729856/222281948-7293f8bf-a3c4-4102-9e4e-7420d538abbf.png)
 
 # UML Changes
-We are only considering Staff and Vehicle as the abstract class . In project 2 we had not considered Vehicle also as an abstract class.
-getVehicleAddon() is the method used for Decorator Pattern. writeToFile() method is used for the Observer pattern
+We are considering Staff and Vehicle as the abstract class . In project 2 we had not considered Vehicle also as an abstract class.
+getVehicleAddon() is the method used for Decorator Pattern. writeToFile() method is used for the Observer pattern. doWash() method is used for the Strategy Pattern.
 
 # Assumptions : 
 
