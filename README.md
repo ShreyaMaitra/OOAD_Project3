@@ -18,6 +18,7 @@ We are starting the simulation considering that there are three types of staffs 
 Also we are considering that the inventory has 10 Vehicles of each type. The store vehicle stock has 4 of each types of Cars i.e. Regular Cars, Pick Up Cars, Performance Cars, Electric Cars, Monster Trucks, Motorcycles. Also we are considering that one sales person can sell multiple cars. Also it is likely that one of each type of Mechanic, Salesperson, Intern can quit and Injured Drivers leave. Buyer can have only one addon.
 
 <h2>References:</h2>
+
 <h3>https://www.w3schools.com/</h3>
 <h3>https://www.geeksforgeeks.org/</h3>
 <h3>https://www.tutorialspoint.com/</h3>
